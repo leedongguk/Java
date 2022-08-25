@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/게임만들기/애니팡/애니팡/컴프로젝트 도구/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
