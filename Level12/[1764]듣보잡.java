@@ -11,6 +11,7 @@ public class Main {
         String[] inputs = br.readLine().split(" ");
         int n = Integer.parseInt(inputs[0]);
         int m = Integer.parseInt(inputs[1]);
+        
 
         HashSet<String> set = new HashSet<>(); 
         for (int i = 0; i < n; i++) {
