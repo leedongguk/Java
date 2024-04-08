@@ -11,6 +11,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+
 class start extends JFrame implements ActionListener {
 	
     ImageIcon backgroundimage = new ImageIcon("./src/images/qwe.jpg"); //패널에 배경 넣기(1)
